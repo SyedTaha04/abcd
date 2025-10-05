@@ -1,0 +1,14 @@
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/bin/Debug/net9.0/TodoListApplication
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/bin/Debug/net9.0/TodoListApplication.deps.json
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/bin/Debug/net9.0/TodoListApplication.runtimeconfig.json
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/bin/Debug/net9.0/TodoListApplication.dll
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/bin/Debug/net9.0/TodoListApplication.pdb
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/obj/Debug/net9.0/TodoListApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/obj/Debug/net9.0/TodoListApplication.AssemblyInfoInputs.cache
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/obj/Debug/net9.0/TodoListApplication.AssemblyInfo.cs
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/obj/Debug/net9.0/TodoListApplication.csproj.CoreCompileInputs.cache
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/obj/Debug/net9.0/TodoListApplication.dll
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/obj/Debug/net9.0/refint/TodoListApplication.dll
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/obj/Debug/net9.0/TodoListApplication.pdb
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/obj/Debug/net9.0/TodoListApplication.genruntimeconfig.cache
+/Users/syedtaha/Desktop/projects .net/TodoListApplication/obj/Debug/net9.0/ref/TodoListApplication.dll
